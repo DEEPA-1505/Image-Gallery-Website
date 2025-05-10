@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.one{
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+img{
+    height: 200px;
+    width: 200px;
+    
+    
+    
+
+    
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+    
+    
+    
+}
+.container div{
+    
+    width: 200px;
+    color: white;
+    margin: 10px;
+    flex-basis: 23%;
+    
+    
+
+}
+
+
+
+
+
+
+
