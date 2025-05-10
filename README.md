@@ -1,4 +1,5 @@
-📸 Image Gallery Website
+📸 IMAGE GALLERY WEBSITE
+
 A simple and responsive Image Gallery Website built using only HTML and CSS. This project demonstrates clean layout design, responsive grid system, and modern UI styling without the use of JavaScript or external libraries.
 
 🔍 Features
